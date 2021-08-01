@@ -13,3 +13,4 @@ contract payment
         insurance.push(msg.sender);
     }
     
+}
